@@ -72,7 +72,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 To start the game, please follow the steps mentioned above and run your json server(internal server for words)
 json-server ./data/db.json --port 3001
 
-After you run npm start and json server, go to localhost:3000 and you see a portal like: 
+After you run npm start and json server, go to localhost:3000 and you see a portal like 
+
 [wordle-sample.webm](https://user-images.githubusercontent.com/29381472/227586171-9acb873e-a45c-4770-a0a3-ceac3fe4a048.webm)
 
 You can play this game for long hours and add words as per your need in json file. 
